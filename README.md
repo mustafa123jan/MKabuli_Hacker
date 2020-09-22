@@ -4,6 +4,7 @@
 #### [~] Instalation :
 
 *apt update
+
 *apt upgrade
 * apt install git python2 -y
 * git clone https://gitlab.com/mustafa123jan/MKabuli_Hacker
@@ -11,13 +12,13 @@
 
 #### Run > python2 loveKamgar.py
 
-*Password and username on our Telegram channel
+Password and username on our Telegram channel
 
-####https://t.me/Hacking_by_MUSTAFA
+https://t.me/Hacking_by_MUSTAFA
 
 ## Find Me on :
 
 [![Github](https://img.shields.io/badge/Github-mustafa123jan-green?style=for-the-badge&logo=github)](https://github.com/mustafa123jan)
-[![Telegram](https://img.shields.io/badge/Gitlab-Mustafa_0001-green?style=for-the-badge&logo=github)](https://t.me/Hacking_by_MUSTAFA)
+[![Telegram](https://img.shields.io/badge/Telegram-Mustafa_0001-green?style=for-the-badge&logo=github)](https://t.me/Hacking_by_MUSTAFA)
 [![Instagram](https://img.shields.io/badge/IG-%40mustafa.kamgar-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mustafa.kamgar)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/mustafa.kamgar.1)
